@@ -54,6 +54,7 @@ jQuery(function( $ ){
 		});
 	});
 
+	// WooCommerce Change select menu to buttons
 	/*var buttons = "";
 	 $("select option").each(function () {
 	 buttons += "<input type='button' value='" + this.value + "'/>";
